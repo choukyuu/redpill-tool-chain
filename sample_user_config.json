@@ -3,9 +3,12 @@
         "pid": "0x5567",
         "vid": "0x0781",
         "sn": "1130ODN012320",
-        "mac1": "001132C486F2"
-        "mac2": "001132F5FD00"
-        "mac3": "0011329ED122"
+        "mac1": "001132C486F2",
+        "mac2": "001132F5FD00",
+        "mac3": "0011329ED122",
+        "DiskIdxMap": "00",
+        "SataPortMap": "68",
+        "SasIdxMap": "0"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
