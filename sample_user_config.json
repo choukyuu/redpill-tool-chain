@@ -2,10 +2,10 @@
     "extra_cmdline": {
         "pid": "0x5567",
         "vid": "0x0781",
-        "sn": "1130ODN012320",
-        "mac1": "001132C486F2",
-        "mac2": "001132F5FD00",
-        "mac3": "0011329ED122",
+        "sn": "2040SQRAW3HKM",
+        "mac1": "001132F0BAD4",
+        "mac2": "0011329CD781",
+        "mac3": "001132607C29",
         "DiskIdxMap": "00",
         "SataPortMap": "68",
         "SasIdxMap": "0"
